@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Deploy Steps
-nav_order: 1
 ---
 
 # How To Release/Timeline:
