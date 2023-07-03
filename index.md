@@ -12,6 +12,6 @@ My name is Spencer Krigbaum,
 
 Below you can find links to my Github and Linkedin:
 
-Github: https://github.com/skrigbaum 
+Github: [https://github.com/skrigbaum]()
 
-LinkedIn: https://www.linkedin.com/in/spencer-krigbaum-01233b34/
+LinkedIn: [https://www.linkedin.com/in/spencer-krigbaum-01233b34/]()
