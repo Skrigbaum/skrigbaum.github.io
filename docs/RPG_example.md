@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RPG Rule Snippet
+nav_order: 4
 ---
 
 # Rules Snippet for Character Creation in Upcoming RPG

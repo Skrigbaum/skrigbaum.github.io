@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Food Deserts
+nav_order: 3
 ---
 # White Paper Example
 
