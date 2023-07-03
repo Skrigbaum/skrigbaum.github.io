@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Food Deserts
-nav_order: 2
+nav_order: 1
 ---
+# White Paper Example
 
 ## Executive Summary
 
