@@ -1,8 +1,8 @@
 title: Technical Writing Portfolio
 description: A Technical Writing Portfolio for Spencer Krigbaum
 theme: just-the-docs
+search_enabled: false
 
 url: https://Skrigbaum.github.io/writing-portfolio
 
-aux_links:
-  Template Repository: https://github.com/Skrigbaum/writing-portfolio
+color_scheme: dark
