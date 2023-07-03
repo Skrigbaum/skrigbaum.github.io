@@ -52,47 +52,15 @@ A feature slot can be used to store an ability from any class and make it useabl
 * In addition to the abilities granted by your Class you also gain additional Feature Slots for every **three** classes you fully level up, also known as moving up a *Tier*. 
 * Upon achieving **Tier 1** you gain **one** feature slot which you can fill with another ability from another Class which you have unlocked.
 
-<table>
-  <thead>
-    <tr>
-      <th>Total Levels</th>
-      <th>Additonal Feature Slots</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>0</td>
-    <tr>
-      <td>3</td>
-      <td>1</td>
-    </tr>
-        <tr>
-      <td>4</td>
-      <td>1</td>
-    </tr>
-        <tr>
-      <td>5</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>2</td>
-    </tr>
-    <tr>
-    <td>...</td>
-    <td>...</td>
-    </tr>
-  </tbody>
-</table>
+| Total Levels | Additional Feature Slots|
+|:-------------|:------------------|
+| 0 | 0 |
+| 1 | 0 |
+| 2 | 0 |
+| 3 | 1 |
+| 4 | 1 |
+| 5 | 1 |
+| 6 | 2 |
 
 
 ## Tiers
